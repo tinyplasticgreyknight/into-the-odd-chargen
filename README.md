@@ -23,11 +23,11 @@ You can give a number on the command line to generate multiple Arcana at once.
 > *(generates three Arcana)*
 
 You can specify the `--kind` option to generate Arcana of a specific kind (by default it is random)
-> `./OddCharacters.py --kind=legendary 2`
+> `./OddArcana.py --kind=legendary 2`
 > *(generates two legendary Arcana)*
 
 If you are using `--kind=random` (the default), you can control the relative probabilities using the `--distribution` argument
-> `./OddCharacters.py --distribution=7:2:1 100`
+> `./OddArcana.py --distribution=7:2:1 100`
 > *(generates 100 Arcana; on average 70 of them will be lesser, 20 will be great, and 10 will be legendary)*
 
 ## Interoperativity
