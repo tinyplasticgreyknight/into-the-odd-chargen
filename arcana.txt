@@ -53,6 +53,7 @@ elaborate adjectives:
 - humming
 - colour-changing
 - wriggling
+- glass
 
 shapes:
 - rod
