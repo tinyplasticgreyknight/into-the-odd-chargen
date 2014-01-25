@@ -27,14 +27,14 @@ You can specify the `--kind` option to generate Arcana of a specific kind (by de
 > *(generates two legendary Arcana)*
 
 If you are using `--kind=random` (the default), you can control the relative probabilities using the `--distribution` argument
-> `./OddCharacters.py --distribution=7:2:1 100
+> `./OddCharacters.py --distribution=7:2:1 100`
 > *(generates 100 Arcana; on average 70 of them will be lesser, 20 will be great, and 10 will be legendary)*
 
 ## Interoperativity
 The output should be suitable for loading via YAML, if you want to manipulate it in some other automated tool.
 
 ## Links
-- Into the Odd: <https://plus.google.com/communities/101074622606805297404>
+- *Into the Odd*: <https://plus.google.com/communities/101074622606805297404>
 - GitHub home for this project: <https://github.com/tinyplasticgreyknight/into-the-odd-chargen>
 - Brian Richmond's character generator (Windows): <http://numberappearing.blogspot.co.uk/2014/01/into-odd-character-generator.html>
 
