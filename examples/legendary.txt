@@ -1,0 +1,50 @@
+Description: bismuth statue
+Power:
+  Name: Teleport
+  Kind: legendary
+  Effect: You and up to one companion are teleported to a location you have been to
+    before.
+---
+Description: maple grimoire
+Power:
+  Name: Divine Form
+  Kind: legendary
+  Effect: You take on the appearance of a huge, godlike entity. You can conjure purely
+    cosmetic, but impressive, visual effects.
+---
+Description: sapphire throne
+Power:
+  Name: Teleport
+  Kind: legendary
+  Effect: You and up to one companion are teleported to a location you have been to
+    before.
+---
+Description: emerald quill
+Power:
+  Name: Black Hole
+  Kind: legendary
+  Effect: Create a five-foot, black sphere. Anything entering it is utterly destroyed.
+    Cannot be moved or placed on top of an object or opponent.
+---
+Description: sapphire censer
+Power:
+  Name: Shapechange
+  Kind: legendary
+  Effect: You shift to take the form of your target, retaining only your WIL score
+    and general level of intelligence. This lasts until dismissed.
+---
+Description: gem-studded sarcophagus
+Power:
+  Name: Cheat Death
+  Kind: legendary
+  Effect: A corpse is miraculously restored to life if they pass a WIL Save. If they
+    fail the Save, the remains are utterly destroyed and the Power cannot be used
+    on that target again.
+---
+Description: granite altar
+Power:
+  Name: Change Weather
+  Kind: legendary
+  Effect: Cause the weather within a mile radius to change for the rest of the day.
+    In the case of dangerous weather you cannot target specific individuals or locations
+    or cause extremes that are inescapably lethal.

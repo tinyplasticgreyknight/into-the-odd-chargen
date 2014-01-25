@@ -1,0 +1,112 @@
+Description: citrine ring
+Power:
+  Name: Pale Glow
+  Kind: lesser
+  Effect: An object glows with white light.  Contact with the glowing object causes
+    a point of damage per minute. The effect wears off when the Power is used again
+---
+Description: quartz spear
+Power:
+  Name: Frozen Brain
+  Kind: lesser
+  Effect: Target must pass a WIL Save to avoid being dazed for a turn.
+---
+Description: tin ring
+Power:
+  Name: Pain Curse
+  Kind: lesser
+  Effect: Target must pass a WIL Save or lose 1d6 STR.
+---
+Description: tin lantern
+Power:
+  Name: Binding Strands
+  Kind: lesser
+  Effect: Strands spread between two surfaces up to 20ft apart. Those within only
+    move very slowly unless they pass a DEX Save.
+---
+Description: brass rod
+Power:
+  Name: Command Word
+  Kind: lesser
+  Effect: Order a target to drop, fall, flee or halt unless they pass a WIL Save.
+---
+Description: studded lantern
+Power:
+  Name: Heat Ray
+  Kind: lesser
+  Effect: A beam causing 2d6 damage. Will sear a thin hole through even metal.
+---
+Description: iron sword
+Power:
+  Name: Bone Magnet
+  Kind: lesser
+  Effect: You may attract or repel a single target that has a skeleton, unless they
+    pass a STR test.
+---
+Description: pearl bracelet
+Power:
+  Name: Spider Climb
+  Kind: lesser
+  Effect: Climb sheer surfaces as if you were a spider.
+---
+Description: green lantern
+Power:
+  Name: Obscuring Mist
+  Kind: lesser
+  Effect: Mist surrounds you and all within 20ft. Anyone attacked through the mist
+    has Armour 2.
+---
+Description: green tome
+Power:
+  Name: Dark Veil
+  Kind: lesser
+  Effect: Target must pass a WIL Save or is Blinded until you lift the curse or they
+    have a full rest.  Blinded individuals subtract 2 from damage rolls.
+---
+Description: citrine ring
+Power:
+  Name: Sunblessed
+  Kind: lesser
+  Effect: Until you sleep you count as having Armour 2 but glow and hum faintly.
+---
+Description: coral urn
+Power:
+  Name: Miniaturise
+  Kind: lesser
+  Effect: Touch an object to shrink it into a tiny miniature. Restore the object to
+    original size at will. The original object can be up to your size.
+---
+Description: tin tiara
+Power:
+  Name: Phase Out
+  Kind: lesser
+  Effect: You look like you aren't quite there.  Reroll failed Saves related to moving
+    unseen.
+---
+Description: violet tiara
+Power:
+  Name: Babbletongue
+  Kind: lesser
+  Effect: For one conversation you speak in a strange sounding language. Every living
+    thing is able to understand and reply in the same tongue if they wish.
+---
+Description: green censer
+Power:
+  Name: Expert's Eye
+  Kind: lesser
+  Effect: You identify the general function of any object, including an Arcanum. It
+    will also reveal areas of weakness or particular value.
+---
+Description: red deck of cards
+Power:
+  Name: Uncanny Double
+  Kind: lesser
+  Effect: A perfect duplicate of you is formed. It acts independently, and just like
+    the original. It cannot interact physically with anything.  The double lasts until
+    dismissed or a new double is created.
+---
+Description: lead censer
+Power:
+  Name: Unbreakable Seal
+  Kind: lesser
+  Effect: One door, window, etc. is magically sealed until you open it.

@@ -19,7 +19,7 @@ adjectives:
 - iron
 - steel
 - tin
-- horn
+- animal-horn
 - oaken
 - maple
 - willow
@@ -34,7 +34,7 @@ adjectives:
 
 elaborate adjectives:
 - silver
-- gold
+- golden
 - diamond
 - emerald
 - sapphire
@@ -70,7 +70,7 @@ shapes:
 - box
 - egg
 - censer
-- cards
+- deck of cards
 - tiara
 - bracelet
 - key
@@ -78,11 +78,14 @@ shapes:
 - sword
 - spear
 - bow
+- whistle
+- trumpet
+- drum
 
 large shapes:
 - throne
 - chest
-- tomes
+- grimoire
 - altar
 - sarcophagus
 - stagecoach
@@ -92,11 +95,11 @@ large shapes:
 - door
 - statue
 - chair
-
+- harp
 
 lesser powers:
     Expert's Eye: "You identify the general function of any object, including an Arcanum. It will also reveal areas of weakness or particular value."
-    Frozen Brain: "Target must pass a WIL Save to avoidbeing dazed for a turn."
+    Frozen Brain: "Target must pass a WIL Save to avoid being dazed for a turn."
     Pale Glow: "An object glows with white light.  Contact with the glowing object causes a point of damage per minute. The effect wears off when the Power is used again"
     Burden Soul: "Target must pass a DEX Save to avoid your touch, or feel a weight on their very soul and lose 1d6 WIL."
     Unbreakable Seal: "One door, window, etc. is magically sealed until you open it."
@@ -122,7 +125,7 @@ great powers:
     Drain Life: "Target must pass a DEX Save to avoid your touch, or lose 1d6 STR."
     Burning Blood: "Target must pass a WIL Save or have their blood turned to acid. They take 1d6 damage, ignoring armour, each round, until they pass the Save."
     Ghost Form: "You turn to an insubstantial, smoky form, along with your equipment. Ignore physical attacks. You can float and squeeze through holes but cannot manipulate objects and can be blown by a strong wind. Return to normal at will."
-    Black Tentacles: "Summon a 20ft area of tentacles that lash out and attack. Anyone within must pass a STR Save to break free. The mass of tentacles has 10hp and is destroyed at 0hp ."
+    Black Tentacles: "Summon a 20ft area of tentacles that lash out and attack. Anyone within must pass a STR Save to break free. The mass of tentacles has 10hp and is destroyed at 0hp."
     The Madness: "All within 15ft of a point must pass a WIL Save or become confused. Roll 1d6 at the start of each turn until they pass the Save. 1-2: Attack closest individual, 3-4: Act aimlessly, 5-6: Act normally. 8: Beast from Beyond: Summon a horrific flying beast (STR 14, DEX 10, WIL 4, Armour 1, 10hp, 1d6+1 Damage) to fight for you until no enemies remain  After this, you must pass a WIL Save to avoid it attacking you. Otherwise, it flies toward freedom."
     False Charm: "Target must pass a WILL Save, or treats you as a friend for the rest of the day."
     Snakebite: "When you next cause Damage in melee you bite your opponent for 1d6 STR loss."
