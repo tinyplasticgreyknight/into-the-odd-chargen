@@ -18,8 +18,6 @@ class Character:
             if chance(name_chances["epithet"]):
                 self.epithet = choose_simple_datum("names", "epithets")
             self.home_town = choose_simple_datum("places", "origins")
-            self.profession_rank = "Novice"
-            self.profession = choose_simple_datum("professions", "professions")
             self.equipment = []
             self.traits = []
             self.arcana = []
@@ -50,13 +48,10 @@ class Character:
             if self.epithet is not None:
                 s += ", %s" % self.epithet
             return s
-        def title(self):
-            return "%s %s" % (self.profession_rank, self.profession)
 
 def yaml_repr_character(dumper, char):
     value = OrderedDict([
         ("Name", char.name()),
-        ("Profession", char.title()),
         ("Str", char.str),
         ("Dex", char.dex),
         ("Wil", char.wil),
