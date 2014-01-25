@@ -1,0 +1,92 @@
+traits:
+- You are a military veteran.
+- You are a reformed criminal.
+- You come from a long line of masons.
+- You once owned an inn.
+- You are a former apothecary.
+- You are a disgraced noble.
+- You fought for the losing side of a revolution.
+- You were once a prostitute.
+- You were witness to a great terror at a young age.
+- You are the most pious member of your family.
+- You ran away from a duel.
+- You were left at the altar by your beloved.
+- You once betrayed your family.
+- You are an orphan.
+- You are a recovering addict.
+- You are fascinated by machines.
+- You once killed a man in cold blood.
+- You once killed a man in self-defense.
+- You are an escaped slave.
+- You were falsely convicted of a crime.
+- You once broke out of jail.
+- You were formerly an indentured servant.
+- You ran away and joined the circus as a child.
+- You abandoned your spouse and children.
+- You were sickly as a child.
+- You are a failed priest.
+- You are a failed merchant.
+- You were expelled from a company for gross incompetence.
+- You outwitted a monster.
+- You once had a strange Arcana in your possession.
+- You think you died once before, but yet here you are.
+- You once lost all your money to a whore.
+- You once lost all your money to bandits.
+- You ran for office and suffered a humiliating defeat.
+- You saved the life of someone you've grown to loathe.
+- You lost a spouse or child.
+- You once had to beg for food.
+- You were originally an artist.
+- You were visited by an Astral Being at an early age.
+- You were once active in the Union of Man.
+- You pledged to hold a dark secret until the day you die.
+- You are wanted for a serious crime in Rosevine.
+- You are wanted for a serious crime in Ashen.
+- You are wanted for a serious crime in Bastion.
+- You are wanted for a serious crime in Starfall.
+- You are of the homosexual persuasion.
+- You dream of monsters.
+- You dream of being hunted.
+- You dream of blood and corpses.
+- You suffer from insomnia.
+- You are never happy with anything, even the greatest of rewards.
+- You are a foppish sort.
+- You were deemed a fool by your father.
+- You were branded a pirate and marked with burning irons on your wrist.
+- You bare the black dot upon your palm and know ruin will befall you if you take to the sea.
+- You have an apetite for grotesque and exotic cuisine.
+- You once saw a pale man in your window as a child.
+- You have a family line allegedly tainted by intercourse with demonry and damned souls.
+- You believe in ghosts after a terrible encounter in your more formative years.
+- You are prone to rebellion and fury against authority.
+- You smell of aged wine and sex.
+- You are a debauched louse who contributes very little to society.
+- You have developed a fetish that you attempt to hide lest ridicule from whores and associates come your way.
+- You have never had a good day in your life.
+- You believe in a God who protects the innocent.
+- You believe in a God who makes your actions righteous.
+- You believe in a God who demands you to slay the inhuman.
+- You are an atheist.
+- You once belonged to the cult of a minor fertility deity.
+- You once belonged to the cult of a murderous deity.
+- You once belonged to a demon-worshipping cult.
+- You enjoy whittling faces into wooden objects.
+- You are a skilled Ferrier.
+- You are good with horses.
+- You are terrified of maggots and worms.
+- You often wake up covered in tiny harmless spiders.
+- You are fascinated by insects.
+- You are fascinated by aquatic life.
+- You are a self-proclaimed philosopher.
+- You intend to write of your expeditions in an academic journal.
+- You believe in the Fey and know that they are sinister.
+- You know legends concerning horrific monsters, and to the best of your knowledge they are true.
+- You once survived a rampage of King Errol on the streets of Mercy Quarter.
+- You participated in a riot at the Hurling Hill, and you managed to escape.
+- You participated in a riot at Hurling Hill as a guard, and what you did haunts you.
+- You were a prisoner who survived the terrors of Mercy's prison within a prison, The Hole.
+- You once worked as a smuggler at The Still.
+- You once got into a drunken riot at The Still.
+- You were once a servant of Moon Devil, the mad-"king" of Mercy's shacks.
+- You were part of the Ape Mob, and until recently you lived a savage lifestyle.
+- You once took terrible advice from jolly old Father Mercy, whom you hate to this day.

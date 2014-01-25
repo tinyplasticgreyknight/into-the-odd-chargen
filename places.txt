@@ -1,0 +1,34 @@
+origins:
+- Bastion, Hub of Mankind
+- Starfall, the Stolen City
+- Ashen, the City of Vaults
+- Rosevine, the City of Flies
+- The Eastern Colonies
+- Hopesend, Last Port of the North
+- The Port of Tunn
+- Deep Country
+- Bastion, Hub of Mankind
+- a small city in The Western Mountains
+- Bastion, Hub of Mankind
+- Starfall, the Stolen City
+- Ashen, the City of Vaults
+- Rosevine, the City of Flies
+- The Eastern Colonies
+- Hopesend, Last Port of the North
+- The Port of Tunn
+- Deep Country
+- Bastion, Hub of Mankind
+- a small city in The Western Mountains
+- Bastion, Hub of Mankind
+- Starfall, the Stolen City
+- Ashen, the City of Vaults
+- Rosevine, the City of Flies
+- The Eastern Colonies
+- Hopesend, Last Port of the North
+- The Port of Tunn
+- Deep Country
+- Bastion, Hub of Mankind
+- a small city in The Western Mountains
+- a great industrialized city in The Southern Kingdoms
+- a cursed lineage, begotten by foul things in ages past
+- Mercy, Bastion's Forgotten Quarter of asylums and shanties

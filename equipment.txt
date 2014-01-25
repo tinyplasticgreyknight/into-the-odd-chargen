@@ -1,0 +1,23 @@
+basic:
+- sword (1d6)
+- pistol (1d6)
+- musket (1d6+1)
+- hatchet (1d6+1)
+- crowbar
+- shovel
+
+double:
+- lackey
+- lackey
+- mutt
+- mutt
+- pistol brace (1d6+1)
+- polearm (1d6+1)
+
+triple:
+- shield armour
+- modern armour
+- fire oil
+- bomb
+- hound
+- bird

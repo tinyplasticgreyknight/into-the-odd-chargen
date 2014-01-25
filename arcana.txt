@@ -1,0 +1,135 @@
+chance of:
+    large lesser: 0%
+    large great: 20%
+    large legendary: 75%
+    elaborate lesser: 5%
+    elaborate great: 40%
+    elaborate legendary: 80%
+    famous lesser: 0%
+    famous great: 30%
+    famous legendary: 80%
+
+adjectives:
+- red
+- orange
+- yellow
+- green
+- blue
+- violet
+- brass
+- copper
+- lead
+- ivory
+- oaken
+- granite
+- coral
+- quartz
+
+elaborate adjectives:
+- silver
+- gold
+- diamond
+- emerald
+- sapphire
+- spectral
+
+shapes:
+- rod
+- ring
+- amulet
+- pendant
+- urn
+- flask
+- staff
+- orb
+- candle
+- lantern
+- tome
+- box
+- egg
+- censer
+- cards
+- tiara
+- bracelet
+- key
+- quill
+
+large shapes:
+- throne
+- chest
+- tomes
+- altar
+- sarcophagus
+- stagecoach
+- mirror
+- pillar
+- arch
+- door
+- statue
+- chair
+
+
+lesser powers:
+    Expert's Eye: "You identify the general function of any object, including an Arcanum. It will also reveal areas of weakness or particular value."
+    Frozen Brain: "Target must pass a WIL Save to avoidbeing dazed for a turn."
+    Pale Glow: "An object glows with white light.  Contact with the glowing object causes a point of damage per minute. The effect wears off when the Power is used again"
+    Burden Soul: "Target must pass a DEX Save to avoid your touch, or feel a weight on their very soul and lose 1d6 WIL."
+    Unbreakable Seal: "One door, window, etc. is magically sealed until you open it."
+    Obscuring Mist: "Mist surrounds you and all within 20ft. Anyone attacked through the mist has Armour 2."
+    Red Oil: "Anyone moving or standing on the 10ft target area must make a DEX Save to avoid falling and being unable to move on their turn. Disappears in a harmless flash if ignited."
+    Pain Curse: "Target must pass a WIL Save or lose 1d6 STR."
+    Spider Climb: "Climb sheer surfaces as if you were a spider."
+    Sunblessed: "Until you sleep you count as having Armour 2 but glow and hum faintly."
+    Babbletongue: "For one conversation you speak in a strange sounding language. Every living thing is able to understand and reply in the same tongue if they wish."
+    Command Word: "Order a target to drop, fall, flee or halt unless they pass a WIL Save."
+    Dark Veil: "Target must pass a WIL Save or is Blinded until you lift the curse or they have a full rest.  Blinded individuals subtract 2 from damage rolls."
+    Binding Strands: "Strands spread between two surfaces up to 20ft apart. Those within only move very slowly unless they pass a DEX Save."
+    Heat Ray: "A beam causing 2d6 damage. Will sear a thin hole through even metal."
+    Miniaturise: "Touch an object to shrink it into a tiny miniature. Restore the object to original size at will. The original object can be up to your size."
+    Invisible Grasp: "Hold one person still, unable to defend themselves, until they pass a WIL Save."
+    Phase Out: "You look like you aren't quite there.  Reroll failed Saves related to moving unseen."
+    Bone Magnet: "You may attract or repel a single target that has a skeleton, unless they pass a STR test."
+    Uncanny Double: "A perfect duplicate of you is formed. It acts independently, and just like the original. It cannot interact physically with anything.  The double lasts until dismissed or a new double is created."
+
+great powers:
+    Hypnotise: "Target must pass a WIL Save or carry out a single action until you say stop, or they pass the Save on their turn. Cannot harm themselves."
+    Inferno: "Cause a source of fire to explode, causing 2d6 damage to all within 20ft."
+    Drain Life: "Target must pass a DEX Save to avoid your touch, or lose 1d6 STR."
+    Burning Blood: "Target must pass a WIL Save or have their blood turned to acid. They take 1d6 damage, ignoring armour, each round, until they pass the Save."
+    Ghost Form: "You turn to an insubstantial, smoky form, along with your equipment. Ignore physical attacks. You can float and squeeze through holes but cannot manipulate objects and can be blown by a strong wind. Return to normal at will."
+    Black Tentacles: "Summon a 20ft area of tentacles that lash out and attack. Anyone within must pass a STR Save to break free. The mass of tentacles has 10hp and is destroyed at 0hp ."
+    The Madness: "All within 15ft of a point must pass a WIL Save or become confused. Roll 1d6 at the start of each turn until they pass the Save. 1-2: Attack closest individual, 3-4: Act aimlessly, 5-6: Act normally. 8: Beast from Beyond: Summon a horrific flying beast (STR 14, DEX 10, WIL 4, Armour 1, 10hp, 1d6+1 Damage) to fight for you until no enemies remain  After this, you must pass a WIL Save to avoid it attacking you. Otherwise, it flies toward freedom."
+    False Charm: "Target must pass a WILL Save, or treats you as a friend for the rest of the day."
+    Snakebite: "When you next cause Damage in melee you bite your opponent for 1d6 STR loss."
+    The Beast Within: "You take on a savage form (STR 18, DEX 14, Armour 2, 1d6+2 claws, retain WIL and hp), but lose the ability to speak. Return to normal form whenever you wish or when you sleep."
+    Deathswarm: "20ft buzzing cloud moves 10ft away from you each round. Anyone within loses 1d6 STR every round."
+    Wither: "Target must pass a DEX Save or lose 2d6 STR at your touch."
+    Dire Beasts: "Up to five animals turn dire. They gain +1 Armour (to a maximum of 3) and melee damage. They also grow much more violent."
+    Petrify: "Target must pass a STR Save or lose 2d6 DEX. If this reduces their DEX to zero they are turned to stone."
+    Guardian Shield: "A shield of light appears between you and a single target. The shield (15hp, Armour 1) absorbs any damage the target would cause you, and is destroyed at 0hp. Each turn it pushes the target 10ft away from you unless they pass a STR Save."
+    Master of Earth: "Over an hour you shift sand, soil or earth to your will, creating ditches up to 10ft deep.  This may destabilise structures, redirect rivers and felltrees but will not affect rock, create tunnels or be fast enough to bury mobile opponents."
+    Devil’s Roar: "Glass, crystal or ceramic objects within 5ft are shattered. In addition, one object you are touching (wielder may avoid with a STR Save) is shattered. This object must be light enough for you to lift."
+    Pressurise: "Next time the target takes Critical Damage they explode in a bloody mess."
+    Terrible Orbs: "Create two orbs of light that obey your commands. They can be flung at a target for 2d6 damage, destroying the orb. No more than two orbs can exist at once."
+
+legendary powers:
+    Change Weather: "Cause the weather within a mile radius to change for the rest of the day. In the case of dangerous weather you cannot target specific individuals or locations or cause extremes that are inescapably lethal."
+    Obliterate: "Choose a target and roll 2d6. If this is equal or higher than their current HP they are completely destroyed in a blast of fire."
+    Cheat Death: "A corpse is miraculously restored to life if they pass a WIL Save. If they fail the Save, the remains are utterly destroyed and the Power cannot be used on that target again."
+    Teleport: "You and up to one companion are teleported to a location you have been to before."
+    Death Wave: "All enemies within 20ft lose 1d6 STR."
+    Spirit Commune: "Conjures a ghostly image of a dead target, which will speak with you clearly and willingly, regardless of language or intelligence. The image remains until dismissed."
+    Mark of Madness: "Creates symbols on any object.  Anyone trying to decode them must pass a WIL Save or lose 2d6 WIL."
+    Earthquake: "Targets a 100ft area. All structures take 3d6 damage and caves or tunnels collapse, causing 1d6 damage per round to anyone within, until they escape."
+    Mighty Servant: "A large object is animated and serves you. The object has STR 18, DEX 5, WIL 5, 10hp, Armour 2 and attacks for 2d6 damage. No more than one object can serve you at once."
+    Forcefield: "Create a semi-transparent, shimmering surface that only you may pass through. Any enemy approaching the wall is blasted with light for 2d6 damage. The field lasts until dismissed or another field is created."
+    Iron Body: "You have Armour 3 and ignore fire and poison based damage. You can no longer swim but also do not need to breathe, eat or drink. The effect lasts until dismissed."
+    Dead Zone: "Creates a permanent one-mile zone where any living things lose 1d6 STR each hour, starting at the end of this hour. Living things within this zone are instantly aware of this and will try to leave. Even plants wither and die in this time."
+    Rebuild: "Over an hour one damaged or ruined structure, ship or similar target is repaired to peak condition without need for materials."
+    Inspire the Masses: "Allies regain all HP and fleeing allies are rallied."
+    Divine Form: "You take on the appearance of a huge, godlike entity. You can conjure purely cosmetic, but impressive, visual effects."
+    Storm Being: "You turn into a bolt of lightning, moving at impossible speed to a specified location you can see. Anyone you pass through takes 2d6 damage, ignoring armour."
+    Shapechange: "You shift to take the form of your target, retaining only your WIL score and general level of intelligence. This lasts until dismissed."
+    Black Hole: "Create a five-foot, black sphere. Anything entering it is utterly destroyed. Cannot be moved or placed on top of an object or opponent."
+    Mind Wipe: "Target must pass a WIL Save or become a mindless automaton."
+    Starbeam: "As long as you have line of sight to the sky you call down a beam of light for 3d6 damage, ignoring all armour."
