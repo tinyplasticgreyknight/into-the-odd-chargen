@@ -1,0 +1,8 @@
+This is a character generator for the Into the Odd roleplaying game.
+
+You can run the OddCharacters.py script to generate a single character, which is printed to standard output.
+You can give a number on the command line to generate multiple characters at once (useful for GMs).
+
+The output should be suitable for loading via YAML if you want to manipulate it in some other automated tool.
+
+Into the Odd: https://plus.google.com/communities/101074622606805297404
