@@ -1,13 +1,10 @@
 chance of:
     large lesser: 0%
     large great: 20%
-    large legendary: 75%
+    large legendary: 50%
     elaborate lesser: 5%
     elaborate great: 40%
     elaborate legendary: 80%
-    famous lesser: 0%
-    famous great: 30%
-    famous legendary: 80%
 
 adjectives:
 - red
@@ -19,11 +16,21 @@ adjectives:
 - brass
 - copper
 - lead
-- ivory
+- iron
+- steel
+- tin
+- horn
 - oaken
+- maple
+- willow
 - granite
 - coral
 - quartz
+- pearl
+- citrine
+- studded
+- fluted
+- hexagonal
 
 elaborate adjectives:
 - silver
@@ -31,7 +38,21 @@ elaborate adjectives:
 - diamond
 - emerald
 - sapphire
+- ruby
+- gem-studded
 - spectral
+- opalescent
+- iridescent
+- embossed
+- intricate
+- ivory
+- bismuth
+- oscillating
+- glowing
+- sparkling
+- humming
+- colour-changing
+- wriggling
 
 shapes:
 - rod
@@ -53,6 +74,9 @@ shapes:
 - bracelet
 - key
 - quill
+- sword
+- spear
+- bow
 
 large shapes:
 - throne

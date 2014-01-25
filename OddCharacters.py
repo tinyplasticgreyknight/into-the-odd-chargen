@@ -1,9 +1,15 @@
+#!/usr/bin/env python
+
 import yaml
 from character import Character
 
-def main():
-    char = Character(force_arcanum=True)
-    print yaml.dump(char, default_flow_style=False)
+def main(n=1):
+    n = int(n)
+    chars = []
+    for _ in range(n):
+        chars.append( Character(force_arcanum=True) )
+    print yaml.dump_all(chars, default_flow_style=False)
 
 if __name__=='__main__':
-    main()
+    import sys
+    main(*sys.argv[1:])
