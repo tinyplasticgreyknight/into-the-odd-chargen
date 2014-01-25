@@ -1,0 +1,21 @@
+Name: Vahram Solheim
+Str: 7
+Dex: 9
+Wil: 12
+HP: 3
+Equipment:
+- sword (1d6)
+- hatchet (1d6+1)
+- lackey
+Arcana:
+- Description: fluted flask
+  Power:
+    Name: Obscuring Mist
+    Kind: lesser
+    Effect: Mist surrounds you and all within 20ft. Anyone attacked through the mist
+      has Armour 2.
+Origin: You are from Ashen, the City of Vaults.
+Traits:
+- You believe in the Fey and know that they are sinister.
+- You are fascinated by aquatic life.
+

@@ -1,0 +1,21 @@
+Name: Atam Netherway
+Str: 11
+Dex: 7
+Wil: 12
+HP: 2
+Equipment:
+- musket (1d6+1)
+- hatchet (1d6+1)
+- mutt
+Arcana:
+- Description: orange box
+  Power:
+    Name: Dark Veil
+    Kind: lesser
+    Effect: Target must pass a WIL Save or is Blinded until you lift the curse or
+      they have a full rest.  Blinded individuals subtract 2 from damage rolls.
+Origin: You are from a small city in The Western Mountains.
+Traits:
+- You once killed a man in cold blood.
+- You once belonged to a demon-worshipping cult.
+

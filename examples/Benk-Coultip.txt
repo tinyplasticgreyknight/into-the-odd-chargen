@@ -1,0 +1,14 @@
+Name: Benk Coultip
+Str: 9
+Dex: 8
+Wil: 7
+HP: 1
+Equipment:
+- crowbar
+- shovel
+- hatchet (1d6+1)
+Arcana: []
+Origin: You are from Mercy, Bastion's Forgotten Quarter of asylums and shanties.
+Traits:
+- You are never happy with anything, even the greatest of rewards.
+- You have an apetite for grotesque and exotic cuisine.

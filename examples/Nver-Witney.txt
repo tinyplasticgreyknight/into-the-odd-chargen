@@ -1,0 +1,14 @@
+Name: Nver Witney
+Str: 15
+Dex: 9
+Wil: 14
+HP: 3
+Equipment:
+- hatchet (1d6+1)
+- shovel
+- mutt
+Arcana: []
+Origin: You are from Ashen, the City of Vaults.
+Traits:
+- You are good with horses.
+- You have never had a good day in your life.

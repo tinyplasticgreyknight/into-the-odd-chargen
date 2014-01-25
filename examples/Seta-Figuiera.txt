@@ -1,0 +1,21 @@
+Name: Seta Figuiera
+Str: 11
+Dex: 7
+Wil: 17
+HP: 1
+Equipment:
+- crowbar
+- musket (1d6+1)
+- pistol brace (1d6+1)
+Arcana:
+- Description: iron flask
+  Power:
+    Name: Red Oil
+    Kind: lesser
+    Effect: Anyone moving or standing on the 10ft target area must make a DEX Save
+      to avoid falling and being unable to move on their turn. Disappears in a harmless
+      flash if ignited.
+Origin: You are from a small city in The Western Mountains.
+Traits:
+- You are fascinated by insects.
+- You are a disgraced noble.

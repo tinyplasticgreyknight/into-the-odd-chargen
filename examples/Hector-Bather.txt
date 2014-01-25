@@ -1,0 +1,20 @@
+Name: Hector Bather
+Str: 9
+Dex: 10
+Wil: 11
+HP: 6
+Equipment:
+- hatchet (1d6+1)
+- crowbar
+- mutt
+Arcana:
+- Description: citrine staff
+  Power:
+    Name: Heat Ray
+    Kind: lesser
+    Effect: A beam causing 2d6 damage. Will sear a thin hole through even metal.
+Origin: You are from Hopesend, Last Port of the North.
+Traits:
+- You are terrified of maggots and worms.
+- You have an apetite for grotesque and exotic cuisine.
+

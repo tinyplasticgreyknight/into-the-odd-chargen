@@ -1,0 +1,20 @@
+Name: Vosgran Gaffey
+Str: 6
+Dex: 11
+Wil: 12
+HP: 5
+Equipment:
+- hatchet (1d6+1)
+- musket (1d6+1)
+- mutt
+Arcana:
+- Description: red bow
+  Power:
+    Name: Expert's Eye
+    Kind: lesser
+    Effect: You identify the general function of any object, including an Arcanum.
+      It will also reveal areas of weakness or particular value.
+Origin: You are from Deep Country.
+Traits:
+- You are prone to rebellion and fury against authority.
+- You outwitted a monster.
