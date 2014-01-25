@@ -4,7 +4,7 @@ from util import *
 class InvalidArcanumKindException(Exception):
     pass
 
-class Arcanum:
+class Arcanum(object):
     def __init__(self, kind="lesser"):
         if kind not in ["lesser", "great", "legendary"]:
             raise InvalidArcanumKindException

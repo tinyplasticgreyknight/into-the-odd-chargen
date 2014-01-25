@@ -2,11 +2,17 @@
 This is a character generator for the *Into the Odd* roleplaying game.
 
 ## Running
-You can run the OddCharacters.py script to generate a single character, which is printed to standard output.
+### OddCharacters
+You can run the `OddCharacters.py` script to generate a single character, which is printed to standard output.
 You can give a number on the command line to generate multiple characters at once (useful for GMs).
+> `./OddCharacters.py 3`
+> *(generates three characters)*
+You can specify the `--lackey` option to generate lackeys instead of normal characters
+> `./OddCharacters.py --lackey 2`
+> *(generates two lackeys)*
 
 ## Interoperativity
-The output should be suitable for loading via YAML if you want to manipulate it in some other automated tool.
+The output should be suitable for loading via YAML, if you want to manipulate it in some other automated tool.
 
 ## Links
 - Into the Odd: <https://plus.google.com/communities/101074622606805297404>
