@@ -1,23 +1,23 @@
-basic:
-- sword (1d6)
+roll 1:
 - pistol (1d6)
 - musket (1d6+1)
-- hatchet (1d6+1)
-- crowbar
-- shovel
-
-double:
-- lackey
-- lackey
-- mutt
-- mutt
 - pistol brace (1d6+1)
-- polearm (1d6+1)
+- throwing axes (1d6)
+- blunderbuss (1d6+1)
+- rifle (1d6+1)
 
-triple:
-- shield armour
+roll 2:
 - modern armour
+- ether
+- mutt
 - fire oil
 - bomb
-- hound
-- bird
+- poison
+
+roll 3:
+- halberd (1d6+1)
+- maul (1d6+1)
+- longaxe (1d6+1)
+- machete (1d6)
+- club (1d6)
+- sword (1d6)

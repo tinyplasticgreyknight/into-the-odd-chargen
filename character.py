@@ -3,22 +3,33 @@ from util import *
 from arcanum import Arcanum
 from collections import OrderedDict
 
+class TooMuchEquipmentException(Exception):
+    pass
+
 class Character(object):
-    def __init__(self, force_arcanum=False, num_traits=2):
+    def __init__(self, force_arcanum=None, num_traits=2, num_equipment=3):
         self.traits = []
         self.equipment = []
         self.arcana = []
         self.roll_basics(num_traits)
-        self.roll_inventory(force_arcanum)
+        self.roll_inventory(num_equipment, force_arcanum)
     def roll_basics(self, num_traits):
         self.roll_scores()
         self.choose_name()
         self.home_town = choose_simple_datum("places", "origins")
         self.choose_traits(num_traits)
-    def roll_inventory(self, force_arcanum):
-        self.add_equipment(n=3)
-        if force_arcanum or (self.wil > self.dex and self.wil > self.str):
+    def roll_inventory(self, num_items, force_arcanum):
+        try:
+            self.add_equipment(n=num_items)
+        except KeyError:
+            raise TooMuchEquipmentException()
+        if force_arcanum is None:
+            if (self.wil >= self.dex) and (self.wil >= self.str):
+                self.add_arcanum()
+        elif force_arcanum:
             self.add_arcanum()
+        else:
+            pass
     def roll_scores(self):
         self.str = d6(n=3)
         self.dex = d6(n=3)
@@ -39,14 +50,11 @@ class Character(object):
     def add_equipment(self, n):
         indices = []
         for _ in range(n):
-            cur = d6()-1
-            nalready = indices.count(cur)
-            indices.append( cur )
-            table = "basic"
-            if nalready==1:
-                table = "double"
-            elif nalready>1:
-                table = "triple"
+            indices.append( d6()-1 )
+        indices.sort()
+        for i in range(n):
+            table = "roll " + str(i+1)
+            cur = indices[i]
             self.equipment.append( data_table("equipment", table)[cur] )
     def add_arcanum(self):
         self.arcana.append( Arcanum("lesser") )
@@ -71,20 +79,6 @@ def yaml_repr_character(dumper, char):
         ("Origin", "You are from %s." % char.home_town),
         ("Traits", char.traits),
     ])
-    if type(char)==Lackey and len(char.arcana)==0:
-        del value["Arcana"]
     return dumper.represent_data(value)
 
-class Lackey(Character):
-    def __init__(self, num_traits=2):
-        super(Lackey, self).__init__(num_traits)
-    def roll_scores(self):
-        self.str = d6(n=2)
-        self.dex = d6(n=2)
-        self.wil = d6(n=2)
-        self.hp  = 1
-    def roll_inventory(self, _):
-        self.add_equipment(n=1)
-
 yaml.add_representer(Character, yaml_repr_character)
-yaml.add_representer(Lackey, yaml_repr_character)
