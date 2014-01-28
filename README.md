@@ -11,9 +11,13 @@ You can give a number on the command line to generate multiple characters at onc
 > `./OddCharacters.py 3`
 > *(generates three characters)*
 
-You can specify the `--lackey` option to generate lackeys instead of normal characters
-> `./OddCharacters.py --lackey 2`
-> *(generates two lackeys)*
+You can specify some options to customise the character generation:
+- `--arcanum=yes` forces a character to start with an arcanum, while `--arcanum=no` forces him to have none.  By default you may or may not get one depending on your ability scores, as per the normal rules.
+- `--num-equipment=3` allows you to customise the amount of starting equipment.  There are no equipment tables for more than 3 starting items, but you can modify equipment.txt to allow for this.
+- `--num-traits=2` allows you to customise the number of traits.
+
+For example, this generates two characters, each with 1 piece of equipment and 2 traits.  None of them will start with Arcana.
+> `./OddCharacters.py --num-equipment=1 --num-traits=2 --arcanum=no 2`
 
 ### OddArcana
 You can run the `OddArcana.py` script to generate a single Arcanum of random kind, which is printed to standard output.
